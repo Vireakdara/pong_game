@@ -1,2 +1,2 @@
 # pong_game
-Simple concept that anyone can understant and try fork my code to grasp the concept 
+Simple concept that anyone can understand and try fork my code to grasp the concept 
